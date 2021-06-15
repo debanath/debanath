@@ -11,7 +11,6 @@
     <hr>
     <h4> <i> Programming Languages and Tools </i> </h4>
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/javascript.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/typescript.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/cpp.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/c.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/html.svg"></code>
