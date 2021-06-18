@@ -14,6 +14,7 @@
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/cpp.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/c.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/html.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/css.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/nodejs.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/visualstudiocode.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/git.svg"></code>
