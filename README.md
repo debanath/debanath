@@ -1,6 +1,6 @@
 <div align="center">
     <h2> Hello 👋, I'm Debashish </h2>
-    <a href="https://www.instagram.com/debashish__nath/">
+    <a href="https://www.instagram.com/debashish._.nath/">
     <img alt="Debashish Nath's Instagram" width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/instagram.svg">
     </a>
     <a href="https://open.spotify.com/user/xchwnd325a3b5v3hg5ps7xv8k">
