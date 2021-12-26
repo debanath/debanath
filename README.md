@@ -10,14 +10,14 @@
     Hi, I'm Debashish Nath P S, a passionate self-taught developer from <a href="https://www.google.com/maps/search/?api=1&query=Assam,India">Assam, India</a>
     <hr>
     <h4> <i> Programming Languages and Tools </i> </h4>
-    <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/javascript.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/cpp.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/c.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/cpp.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/html.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/css.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/javascript.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/nodejs.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/visualstudiocode.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/git.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/visualstudiocode.svg"></code>
     <hr>
     <img src="https://github-readme-stats.vercel.app/api?username=debanath&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
