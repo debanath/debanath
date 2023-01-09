@@ -24,7 +24,6 @@
     <br>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debanath&theme=dark" alt="Debashish" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debanath&layout=compact&langs_count=8&theme=dark">...
-    <a href="https://data.typeracer.com/pit/profile?user=deba26&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=deba26" border="0" alt="TypeRacer.com scorecard for user deba26"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debanath&layout=compact&langs_count=8&theme=dark">
     
 </div>
