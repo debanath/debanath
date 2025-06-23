@@ -1,11 +1,11 @@
 <div align="center">
     <h2> Hello 👋, I'm Debashish </h2>
-    <a href="https://www.instagram.com/_deba26">
+<!--     <a href="https://www.instagram.com/_deba26">
     <img alt="Debashish Nath's Instagram" width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/instagram.svg">
     </a>
     <a href="https://open.spotify.com/user/xchwnd325a3b5v3hg5ps7xv8k">
     <img alt="Debashish Nath's Spotify", width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/spotify.svg">
-    </a>
+    </a> -->
     <br>
     Hi, I'm Debashish Nath P S, a passionate self-taught developer from <a href="https://www.google.com/maps/search/?api=1&query=Assam,India">Assam, India</a>
     <hr>
