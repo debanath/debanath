@@ -25,5 +25,7 @@
 <!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debanath&theme=dark" alt="Debashish" /> -->
 <!--     <br> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debanath&layout=compact&langs_count=8&theme=dark">
+    <br>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debanath&theme=dark" alt="ksp-07" />
     
 </div>
