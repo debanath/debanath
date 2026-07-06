@@ -20,16 +20,12 @@
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/git.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/visualstudiocode.svg"></code>
     <hr>
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=debanath&show_icons=true&hide_border=true&theme=dark&count_private=true"> -->
-    ![Deba's GitHub stats](./profile/stats-dark.svg#gh-dark-mode-only)![Deba's GitHub stats](./profile/stats-light.svg#gh-light-mode-only)
+    <img src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Deba's GitHub stats (dark)">
+    <img src="./profile/stats-light.svg#gh-light-mode-only" alt="Deba's GitHub stats (light)">
     <br>
-    ![Deba's Top Languages](./profile/top-langs-dark.svg#gh-dark-mode-only)![Deba's Top Languages](./profile/top-langs-light.svg#gh-light-mode-only)
+    <img src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Deba's Top Languages (dark)">
+    <img src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Deba's Top Languages (light)">
     <br>
-    ![Deba's GitHub Streak](./profile/streak-dark.svg#gh-dark-mode-only)![Deba's GitHub Streak](./profile/streak-light.svg#gh-light-mode-only)
-<!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debanath&theme=dark" alt="Debashish" /> -->
-<!--     <br> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debanath&layout=compact&langs_count=8&theme=dark">
-    <br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debanath&theme=dark" alt="debanath" />
-    
+    <img src="./profile/streak-dark.svg#gh-dark-mode-only" alt="Deba's GitHub Streak (dark)">
+    <img src="./profile/streak-light.svg#gh-light-mode-only" alt="Deba's GitHub Streak (light)">
 </div>

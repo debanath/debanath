@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&include_all_commits=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=catppuccin_mocha&include_all_commits=true
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -23,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=default&include_all_commits=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=catppuccin_latte&include_all_commits=true
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -31,7 +31,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=dracula&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&theme=catppuccin_mocha&langs_count=6
           path: profile/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -39,15 +39,15 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=default&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&theme=catppuccin_latte&langs_count=6
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak
         run: |
           set -xe
-          curl -fSsL 'https://github-readme-streak-stats-eight.vercel.app/?theme=dracula&user=${{ github.repository_owner }}' > profile/streak-dark.svg
-          curl -fSsL 'https://github-readme-streak-stats-eight.vercel.app/?theme=default&user=${{ github.repository_owner }}' > profile/streak-light.svg
+          curl -fSsL 'https://github-readme-streak-stats-eight.vercel.app/?theme=catppuccin_mocha&user=${{ github.repository_owner }}' > profile/streak-dark.svg
+          curl -fSsL 'https://github-readme-streak-stats-eight.vercel.app/?theme=catppuccin_latte&user=${{ github.repository_owner }}' > profile/streak-light.svg
 
       - name: Commit cards
         run: |
