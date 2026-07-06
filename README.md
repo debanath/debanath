@@ -20,8 +20,12 @@
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/git.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/debanath/debanath/master/assets/visualstudiocode.svg"></code>
     <hr>
-    <img src="https://github-readme-stats.vercel.app/api?username=debanath&show_icons=true&hide_border=true&theme=dark&count_private=true">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=debanath&show_icons=true&hide_border=true&theme=dark&count_private=true"> -->
+    ![Deba's GitHub stats](./profile/stats-dark.svg#gh-dark-mode-only)![Deba's GitHub stats](./profile/stats-light.svg#gh-light-mode-only)
     <br>
+    ![Deba's Top Languages](./profile/top-langs-dark.svg#gh-dark-mode-only)![Deba's Top Languages](./profile/top-langs-light.svg#gh-light-mode-only)
+    <br>
+    ![Deba's GitHub Streak](./profile/streak-dark.svg#gh-dark-mode-only)![Deba's GitHub Streak](./profile/streak-light.svg#gh-light-mode-only)
 <!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debanath&theme=dark" alt="Debashish" /> -->
 <!--     <br> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debanath&layout=compact&langs_count=8&theme=dark">
